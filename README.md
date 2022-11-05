@@ -1,4 +1,4 @@
 # Chad-Bot
 
-<h2>Required Libraries</h2>
-<p1>chatbotAI<p1>
+<h3>Downloading Required Libraries</h3>
+<p1>pip install -U discord.py<p1>
